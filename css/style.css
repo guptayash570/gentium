@@ -274,18 +274,18 @@ span.vertline {
 }
 
 .profile-gallery .block1 {
-  background-image: url(/img/alex-iby-xVPaGwmde0A-unsplash.jpg);
+  background-image: url(./img/alex-iby-xVPaGwmde0A-unsplash.jpg);
   background-size: cover;
 
   grid-area: block1;
 }
 .profile-gallery .block2 {
-  background-image: url(/img/lorene-farrugia-JpmC-tAHiVA-unsplash.jpg);
+  background-image: url(./img/lorene-farrugia-JpmC-tAHiVA-unsplash.jpg);
   background-size: cover;
   grid-area: block2;
 }
 .profile-gallery .block3 {
-  background-image: url(/img/nathan-dumlao-k-oS0iKn0Qg-unsplash.jpg);
+  background-image: url(./img/nathan-dumlao-k-oS0iKn0Qg-unsplash.jpg);
   background-size: cover;
   grid-area: block3;
 }
